@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(../clouds-8459053_640.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.content{
+    height:100vh;
+}
+.form-check- input:checked{
+    background: #a590cb;
+    border-color: #8c61d6;
+}
+
+.btn-dark{
+    background: #673AB7;
+}
+
+.fa-brands{
+    padding: 11px;
+    width: 37px;
+    text-align: center;
+    text-decoration: none;
+    margin:1px 3px;
+    border-radius: 50%;
+    font-size: 2em;
+}
+.fa-facebook{
+    background:fff;
+    color: #3b5998
+}
+.fa-twitter{
+    background: fff;
+    color: #55acee;
+}
+.fa-instagram{
+    background: fff;
+    color: palevioletred;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
